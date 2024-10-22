@@ -1,0 +1,15 @@
+{
+  "name": "@tests/front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@common/data": "workspace:^1.0.0",
+    "@keywords/pages": "workspace:^1.0.0",
+    "@keywords/locators": "workspace:^1.0.0"
+  }
+}
